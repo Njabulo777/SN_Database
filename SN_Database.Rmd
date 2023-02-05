@@ -1,5 +1,5 @@
 ---
-title: "Social Network Database"
+title: "Social Network Database Queries"
 author: "Njabulo"
 date: "2023-01-14"
 output: 
